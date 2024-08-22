@@ -1,9 +1,5 @@
 // SPDX-License-Identifier: UNLICENCED  version added
-updated in github
 
-2c2
-
-update fromlocal
 
 pragma solidity ^0.8.7;
 

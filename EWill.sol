@@ -1,10 +1,14 @@
 // SPDX-License-Identifier: UNLICENCED  version added
+<<<<<<< HEAD
 updated in github
 
 2c2
 
 update fromlocal
 
+=======
+updated from task1
+>>>>>>> task
 pragma solidity ^0.8.7;
 
 import "./Shared.sol";
